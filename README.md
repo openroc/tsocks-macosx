@@ -25,4 +25,4 @@ Download & Install it
     sudo cp tsocks.conf.simple.example /etc/tsocks.conf
   
 
-NOTE: **please modify your _/etc/tsocks.conf_ according to your local environment. **
+NOTE: **please modify your _/etc/tsocks.conf_ according to your local environment.**
