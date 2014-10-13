@@ -1,0 +1,8 @@
+
+*.o
+*.dylib
+
+autom4te.cache/
+inspectsocks.dSYM/
+saveme.dSYM/
+validateconf.dSYM/
