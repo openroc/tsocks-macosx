@@ -3,8 +3,9 @@ tsocks-macosx
 
 tsocks 1.8 with the mac osx patch
 
+----
 
-Download & Install it
+####Download & Install it
 
 
     git clone https://github.com/openroc/tsocks-macosx
@@ -26,3 +27,11 @@ Download & Install it
   
 
 NOTE: **please modify your _/etc/tsocks.conf_ according to your local environment.**
+
+
+----
+
+####Reference: 
+
+  - [1. tsocks-1.8] (http://sourceforge.net/projects/tsocks/)
+  - [2. macosx-patch] (http://marc-abramowitz.com/download/tsocks-1.8_macosx.patch)
