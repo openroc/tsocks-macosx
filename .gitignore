@@ -2,7 +2,9 @@
 *.o
 *.dylib
 *.dylib.*
+*.log
 
+tsocks
 inspectsocks
 saveme
 validateconf
