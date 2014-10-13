@@ -1,6 +1,11 @@
 
 *.o
 *.dylib
+*.dylib.*
+
+inspectsocks
+saveme
+validateconf
 
 autom4te.cache/
 inspectsocks.dSYM/
